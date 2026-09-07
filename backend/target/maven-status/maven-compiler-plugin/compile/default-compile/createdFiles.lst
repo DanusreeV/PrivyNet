@@ -1,0 +1,14 @@
+com\privynet\CorsConfig$1.class
+com\privynet\Feedback.class
+com\privynet\PrivyNetApp.class
+com\privynet\AlertRepository.class
+com\privynet\MessageController.class
+com\privynet\MessageRepository.class
+com\privynet\CorsConfig.class
+com\privynet\EncryptionService.class
+com\privynet\FeedbackRepository.class
+com\privynet\AlertController.class
+com\privynet\SecurityController.class
+com\privynet\Alert.class
+com\privynet\Message.class
+com\privynet\FeedbackController.class
